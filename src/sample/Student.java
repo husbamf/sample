@@ -6,7 +6,7 @@
 package sample;
 
 /**
- *
+ *first demo
  * @author Em,2019
  */
 public class Student {
