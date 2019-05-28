@@ -7,7 +7,7 @@ package sample;
 
 /**
  *
- * @author Em
+ * @author Em,2019
  */
 public class Student {
     private int id;
